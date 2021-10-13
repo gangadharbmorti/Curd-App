@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Curd-App/static/css/main.ddfb7284.chunk.css",
+    "main.js": "/Curd-App/static/js/main.e9208f30.chunk.js",
+    "main.js.map": "/Curd-App/static/js/main.e9208f30.chunk.js.map",
+    "runtime-main.js": "/Curd-App/static/js/runtime-main.ded171b8.js",
+    "runtime-main.js.map": "/Curd-App/static/js/runtime-main.ded171b8.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/Curd-App/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.b2e94472.chunk.js": "/Curd-App/static/js/2.b2e94472.chunk.js",
+    "static/js/2.b2e94472.chunk.js.map": "/Curd-App/static/js/2.b2e94472.chunk.js.map",
+    "index.html": "/Curd-App/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/Curd-App/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.ddfb7284.chunk.css.map": "/Curd-App/static/css/main.ddfb7284.chunk.css.map",
+    "static/js/2.b2e94472.chunk.js.LICENSE.txt": "/Curd-App/static/js/2.b2e94472.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ded171b8.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.b2e94472.chunk.js",
+    "static/css/main.ddfb7284.chunk.css",
+    "static/js/main.e9208f30.chunk.js"
+  ]
+}
