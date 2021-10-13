@@ -2,9 +2,9 @@
   "users": [
     {
       "id": 7,
-      "name": "Kurtis Weissnat",
-      "username": "Elwyn.Skiles",
-      "email": "Telly.Hoeger@billy.biz",
+      "name": "Swapnil Patil",
+      "username": "spatil123",
+      "email": "swapnil@gmail.com",
       "address": {
         "street": "Rex Trail",
         "suite": "Suite 280",
@@ -15,7 +15,7 @@
           "lng": "21.8984"
         }
       },
-      "phone": "210.067.6132",
+      "phone": "11212123",
       "website": "elvis.io",
       "company": {
         "name": "Johns Group",
@@ -25,9 +25,9 @@
     },
     {
       "id": 8,
-      "name": "Nicholas Runolfsdottir V",
-      "username": "Maxime_Nienow",
-      "email": "Sherwood@rosamond.me",
+      "name": "Gangadhar Morti",
+      "username": "gmorti123",
+      "email": "gbm@gg.com",
       "address": {
         "street": "Ellsworth Summit",
         "suite": "Suite 729",
@@ -47,10 +47,10 @@
       }
     },
     {
-      "name": "Gangadhar",
-      "username": "gmorti",
-      "email": "gbm@gg.com",
-      "phone": "123323",
+      "name": "nikhil k",
+      "username": "nikhil123",
+      "email": "nikhil@gmail.com",
+      "phone": "122121",
       "id": 9
     }
   ]

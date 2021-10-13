@@ -20,7 +20,7 @@ const Edit = () => {
 
   useEffect(() => {
     loadUser();
-  }, []);
+  },[]);
 
   const handleSubmit = async e => {
     e.preventDefault();

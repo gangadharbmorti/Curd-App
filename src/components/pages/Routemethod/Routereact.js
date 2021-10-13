@@ -1,6 +1,8 @@
 import React from "react";
-import "../../../../node_modules/bootstrap/dist/css/bootstrap.css";
+// import "../../../../node_modules/bootstrap/dist/css/bootstrap.css";
+import '../../../../node_modules/bootstrap/dist/css/bootstrap.css';
 import Navabar from "../Navbar/Navabar";
+
 import Home from "../Home/Home";
 import About from "../About/About";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
