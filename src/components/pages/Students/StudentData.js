@@ -28,7 +28,7 @@ const StudentData = () => {
 
   return (
     <div className="container   ">
-      <div className=" w-75 border mx-auto shadow  p-5">
+      <div className=" w-75 border mx-auto shadow  p-5 mt-4">
         <div className="text-center mb-4">
           <h1>Add Students Details</h1>
         </div>
@@ -37,7 +37,7 @@ const StudentData = () => {
             <label htmlFor="name">Name</label>
             <input
               type="text"
-              className="form-control "
+              className="form-control mb-2 "
               id="name"
               placeholder="Enter Name"
               name="name"
@@ -49,7 +49,7 @@ const StudentData = () => {
             <label htmlFor="username">User Name</label>
             <input
               type="text"
-              className="form-control"
+              className="form-control mb-2"
               id="username"
               placeholder="Enter username"
               name="username"
@@ -61,7 +61,7 @@ const StudentData = () => {
             <label htmlFor="email">Email</label>
             <input
               type="email"
-              className="form-control"
+              className="form-control mb-2"
               id="email"
               placeholder="Enter Email"
               name="email"
@@ -73,7 +73,7 @@ const StudentData = () => {
             <label htmlFor="mobile">Mobile</label>
             <input
               type="text"
-              className="form-control"
+              className="form-control mb-2"
               id="phone"
               placeholder="Enter Mobile number"
               name="phone"
@@ -81,7 +81,7 @@ const StudentData = () => {
               onChange={handleEvent}
             />
           </div>
-          <div className="form-group  ">
+          <div className="form-group mt-4  ">
 
           <button  className="btn btn-primary btn-block " >
             Add User
